@@ -50,4 +50,5 @@ A practical SQL project using Microsoft's AdventureWorks2019 database to answer 
 ---
 
 ### 4. 🌍 Top 10 European Customers by Number of Orders
+![Top Products by Category](./screenshots/top_10_european_customers_query.png)
 
