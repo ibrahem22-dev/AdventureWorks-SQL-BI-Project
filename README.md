@@ -35,7 +35,7 @@ A practical SQL project using Microsoft's AdventureWorks2019 database to answer 
 
 
 ### 1. 🧪 Products That Were Never Purchased
-![Unbought Products](./screenshots/unbought_products_query.png)
+![Unbought Products](./screenshots/unbought_products_query.png.png)
 
 ---
 
