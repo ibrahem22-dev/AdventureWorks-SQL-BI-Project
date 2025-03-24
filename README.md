@@ -30,11 +30,9 @@ A practical SQL project using Microsoft's AdventureWorks2019 database to answer 
 
 ---
 
-<<<<<<< HEAD
+
 ## 📸 Screenshots of SQL Queries
-=======
-## 📸  Example
->>>>>>> 10b6af3c1956ac64d0704a42f5c4072ca6bd9d34
+
 
 ### 1. 🧪 Products That Were Never Purchased
 ![Unbought Products](./screenshots/unbought_products_query.png)
@@ -52,3 +50,4 @@ A practical SQL project using Microsoft's AdventureWorks2019 database to answer 
 ---
 
 ### 4. 🌍 Top 10 European Customers by Number of Orders
+
